@@ -4,7 +4,8 @@
 
 A simple and responsive weather app built using **HTML**, **CSS**, and **JavaScript**, powered by the [OpenWeatherMap API](https://openweathermap.org/api). Enter a city name to view real-time temperature, humidity, and wind conditions with weather-specific icons.
 
-<img width="502" alt="Screenshot 2025-05-13 at 10 12 10 PM" src="https://github.com/user-attachments/assets/d299c88b-f46a-4ae2-a7db-9715b5a480df" />
+<img width="567" alt="Screenshot 2025-05-13 at 10 17 17 PM" src="https://github.com/user-attachments/assets/edad0053-808f-45d6-8bcb-afafcb668f00" />
+
 
 ---
 
